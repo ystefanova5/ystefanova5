@@ -5,4 +5,5 @@
 - 📫 How to reach me: discordapp.com/users/yordanka or y.stefanova@hotmail.com
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ystefanova5&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ystefanova5&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+![](https://komarev.com/ghpvc/?ystefanova5)
