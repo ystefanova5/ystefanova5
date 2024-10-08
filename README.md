@@ -1,6 +1,4 @@
-### Hello, I'm Yordanka!
+### Hello, I'm Dany!
 
-- 🌱 I’m currently learning Python at SoftUni
+- 🌱 I’m a Python enthusiast with interest in Data Science
 - 📫 How to reach me: discordapp.com/users/yordanka or y.stefanova@hotmail.com
-
-![Profile Views](https://komarev.com/ghpvc/?username=ystefanova5&label=Profile%20views&color=0e75b6&style=flat)
